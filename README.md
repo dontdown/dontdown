@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/dontdown">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zSodium&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSodium&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dontdown&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dontdown&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div>
